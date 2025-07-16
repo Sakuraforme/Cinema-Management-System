@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.moke.wp.wx_weimai.config.util.FileProperties",
+      "sourceType": "com.moke.wp.wx_weimai.config.util.FileProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.moke.wp.wx_weimai.config.util.FileProperties"
+    }
+  ],
+  "hints": []
+}
